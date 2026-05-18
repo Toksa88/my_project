@@ -1,0 +1,6 @@
+tokenss.env
+prom_products
+__pycache__/
+venv/
+env/
+scraper.log
