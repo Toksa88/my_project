@@ -6,5 +6,6 @@ load_dotenv(dotenv_path='tokenss.env')
 # Получение токена бота из переменных окружения
 bot_token = os.getenv('TG_TOKEN')
 user_id = os.getenv('MY_TELEGRAM_ID')
-
-
+"""
+Здесь можно добавить код для создания и запуска бота, используя полученный токен и ID пользователя.
+"""
